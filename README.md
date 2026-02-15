@@ -57,6 +57,6 @@ No automated tests are included. For a manual check, use `curl` or visit the URL
 - If `npm start` fails, ensure Node.js and npm are installed (`node -v`, `npm -v`).
 - If the port is already in use, change the `PORT` environment variable as shown above.
 
-## License
+## License-:.
 
 MIT
